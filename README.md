@@ -1,4 +1,4 @@
 # LookPositive
-The default icon pack for weOS
+LookPositive is the perfect icon pack for anyone. Made with ❤️ by Microwave.
 
-For now it's just the SVGs, but it will be made into a working Linux icon pack at some point.
+LookPositive is licensed under the MIT license. Learn about MIT here: https://opensource.org/license/MIT/
