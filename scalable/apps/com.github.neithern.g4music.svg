@@ -1,19 +1,11 @@
 <svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_17_2)">
-<rect width="512" height="512" rx="125" fill="#CBCBCB"/>
-<circle cx="256" cy="256" r="215" fill="#252525"/>
-<circle cx="256" cy="256" r="188.125" fill="#585858"/>
-<circle cx="256" cy="256" r="174.688" fill="#252525"/>
-<circle cx="256" cy="256" r="147.812" fill="#585858"/>
-<circle cx="256" cy="256" r="134.375" fill="#252525"/>
-<circle cx="256" cy="256" r="107.5" fill="#585858"/>
-<circle cx="256" cy="256" r="94.0625" fill="#252525"/>
-<circle cx="256" cy="256" r="62.9883" fill="white"/>
-<circle cx="256" cy="256" r="12.5977" fill="#FFCE70"/>
-<circle cx="443.5" cy="443.5" r="17.5" fill="#545454"/>
+<g clip-path="url(#clip0_60_56)">
+<rect width="512" height="512" rx="140" fill="#91E36A"/>
+<circle cx="256" cy="321" r="80" fill="white"/>
+<path d="M286 136C286 122.193 297.193 111 311 111V111C324.807 111 336 122.193 336 136V321H286V136Z" fill="white"/>
 </g>
 <defs>
-<clipPath id="clip0_17_2">
+<clipPath id="clip0_60_56">
 <rect width="512" height="512" fill="white"/>
 </clipPath>
 </defs>
